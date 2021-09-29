@@ -3,8 +3,8 @@
 Zamanında A-Plague-Tale-Innocence-Oyununun-Türkçe-Yamasını oyunun yeni versiyonlarına uyarlamak için yazdığım kod.
 Eski versiyona ait olan dil dosyasını yeni versiyona göre uyarlar.
 
-input1: Oyunun güncel versiyonuna ait bir dil dosyası.
-input2: Oyunun eski versiyonuna ait bir dil dosyası koyulur.
+input1: Oyunun güncel versiyonuna ait bir dil dosyası.<br />
+input2: Oyunun eski versiyonuna ait bir dil dosyası koyulur.<br />
 *---Program Çalışır---*
 output: input2 deki satırlar, input1 de eşleşen satırlarla değiştirilip bu dosyaya yazılır.
 warning: Eğer eşleşmeyen satırlar olursa bu satırların numaralarının yazdığı dosya.
