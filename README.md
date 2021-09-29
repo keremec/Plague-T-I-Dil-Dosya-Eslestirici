@@ -11,8 +11,8 @@ warning: Eğer eşleşmeyen satırlar olursa bu satırların numaralarının yaz
 <br />
 <br />
 Örnek Kullanım Senaryosu:
-Elimizde oyunun 1.02 versiyonuna ait bir Türkçe dil dosyası var diyelim ve biz bunu oyunun 1.07 versiyonuna uyarlamak istersek.
-<br />
+Elimizde oyunun 1.02 versiyonuna ait bir Türkçe dil dosyası var diyelim ve biz bunu oyunun 1.07 versiyonuna uyarlamak istersek;
+<br /><br />
 input1: Oyunun eski (1.02)versiyonuna ait Türkçe Dil dosyası olur.<br />
 input2: Oyunun güncel (1.07) versiyonuna ait terchien Ingilizce dil dosyası olur.<br />
 *---Program Çalışır---*<br />
